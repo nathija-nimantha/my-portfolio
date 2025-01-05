@@ -75,7 +75,7 @@ export default function Contact() {
             <li className="flex items-center space-x-4">
               <FiMapPin className="w-6 h-6 text-indigo-600 dark:text-indigo-400" />
               <p className="text-gray-700 dark:text-gray-300">
-                <strong>Location:</strong> Sri Lanka
+                <strong>Location:</strong> Aluthgama, Sri Lanka
               </p>
             </li>
           </ul>
