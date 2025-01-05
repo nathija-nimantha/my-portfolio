@@ -33,10 +33,10 @@ export default function About() {
 
         <div className="md:w-2/3">
           <p className="text-lg mb-6 text-gray-700 dark:text-gray-300">
-            I'm Nathija Nimantha, a passionate and aspiring full-stack software engineer currently studying at the Institute of Computer Engineering (ICET). My journey in programming began with a fascination for solving complex problems and creating innovative solutions.
+            I&apos;m Nathija Nimantha, a passionate and aspiring full-stack software engineer currently studying at the Institute of Computer Engineering (ICET). My journey in programming began with a fascination for solving complex problems and creating innovative solutions.
           </p>
           <p className="text-lg mb-6 text-gray-700 dark:text-gray-300">
-            Throughout my academic career, I've worked on various projects that honed my skills in both front-end and back-end development. I'm particularly interested in web technologies and enjoy working with frameworks like React, Angular, and Next.js.
+            Throughout my academic career, I&apos;ve worked on various projects that honed my skills in both front-end and back-end development. I&apos;m particularly interested in web technologies and enjoy working with frameworks like React, Angular, and Next.js.
           </p>
 
           <h2 className="text-2xl font-bold mb-4 text-gray-900 dark:text-gray-100">
@@ -58,7 +58,7 @@ export default function About() {
             Fun Fact
           </h2>
           <p className="text-lg text-gray-700 dark:text-gray-300">
-            When I'm not coding, you can find me exploring new programming languages and frameworks. I love the challenge of learning something new and applying it to real-world problems!
+            When I&apos;m not coding, you can find me exploring new programming languages and frameworks. I love the challenge of learning something new and applying it to real-world problems!
           </p>
         </div>
       </div>

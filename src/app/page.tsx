@@ -8,7 +8,7 @@ export default function Home() {
         <div className="flex flex-col md:flex-row items-center justify-between">
           <div className="md:w-1/2 mb-8 md:mb-0">
             <h1 className="text-4xl md:text-5xl font-bold mb-4 text-gray-900 dark:text-gray-100">
-              Hi, I'm Nathija Nimantha
+              Hi, I&apos;m Nathija Nimantha
             </h1>
             <h2 className="text-2xl md:text-3xl text-indigo-600 dark:text-indigo-400 mb-6">
               A Future Full-Stack Software Engineer

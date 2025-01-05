@@ -10,6 +10,7 @@ export default function Contact() {
   const handleSubmit = async (formData: FormData) => {
     await new Promise(resolve => setTimeout(resolve, 1000))
     setSubmitted(true)
+    console.log(formData);
   }
 
   return (
@@ -21,7 +22,7 @@ export default function Contact() {
           {submitted ? (
             <div className="bg-green-100 border border-green-400 text-green-700 px-4 py-3 rounded-lg" role="alert">
               <p className="font-bold">Thank you for your message!</p>
-              <p>I'll get back to you as soon as possible.</p>
+              <p>I&apos;ll get back to you as soon as possible.</p>
             </div>
           ) : (
             <ContactForm onSubmit={handleSubmit} />
